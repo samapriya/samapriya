@@ -6,4 +6,4 @@ Over the last decade or more I have been working with all things geospatial appl
 - Learn about my [projects](https://samapriya.github.io/) ✍🏾
 - Tinkering with tools on [GitHub](https://github.com/samapriya?tab=repositories) 🏓
 - Read my posts on [Medium](https://medium.com/@samapriyaroy) ✍🏾
-- Visit my updates on LinkedIn<a href="https://www.linkedin.com/in/samapriya/">LinkedIn</a> 💼
+- Visit my updates on [LinkedIn](https://www.linkedin.com/in/samapriya/) 💼
