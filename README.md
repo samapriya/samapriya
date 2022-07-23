@@ -2,7 +2,9 @@
 [![GitHub Badge](https://img.shields.io/github/followers/samapriya?style=social)](https://github.com/samapriya?tab=followers)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samapriya.samapriya)
 
-![experts-digital-badge-logos-2022-15](https://user-images.githubusercontent.com/6677629/180601343-d24b57c7-5d66-43cd-a97d-0067361902a7.png)
+<p align="center">
+  <img width="600" height="213" src="https://user-images.githubusercontent.com/6677629/180601343-d24b57c7-5d66-43cd-a97d-0067361902a7.png">
+</p>
 
 Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I believe data, tools, and platforms can benefit from each other if built around community and commons. 🌎My research interest has included big data analysis and large scale data science applications utilizing geospatial technology. I am passionate about satellite imagery, geospatial data, and data access at large and on how to make its use and implementation as openly available as possible. I am a community advocate and love to drive thought. 
 
