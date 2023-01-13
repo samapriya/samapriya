@@ -5,11 +5,6 @@
 [![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Chai-teal)](https://www.buymeacoffee.com/samapriya)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
 
-<p align="center">
-  <img width="600" height="213" src="https://user-images.githubusercontent.com/6677629/180601343-d24b57c7-5d66-43cd-a97d-0067361902a7.png" href="">
-</p>
-
-
 Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I believe data, tools, and platforms can benefit from each other if built around community and commons. 🌎My research interest has included big data analysis and large scale data science applications utilizing geospatial technology. I am passionate about satellite imagery, geospatial data, and data access at large and on how to make its use and implementation as openly available as possible. I am a community advocate and love to drive thought. 
 
 #### Open Source Projects 
@@ -28,6 +23,6 @@ Over the last decade or more I have been working with all things geospatial appl
 - Visit my updates on [LinkedIn](https://www.linkedin.com/in/samapriya/) 💼
 - Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/samapriyaroy"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 
-![Samapriya Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samapriya&show_icons=true&theme=dark&count_private=true)
+![Samapriya Roy's GitHub stats](https://github-readme-stats-seven-hazel.vercel.app/api?username=samapriya&show_icons=true&theme=dark&count_private=true)
 
 **If you find my work useful buy me a cup of tea to make these efforts more sustainable. Use the donate or sponsor buttons, I am happy to have you as a sponsor of my work**
