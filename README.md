@@ -1,4 +1,6 @@
-[![Twitter URL](https://img.shields.io/twitter/follow/samapriyaroy?style=social)](https://twitter.com/intent/follow?screen_name=samapriyaroy)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109627075086849826?domain=https%3A%2F%2Fmapstodon.space%2F)](https://mapstodon.space/@samapriya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samapriya/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@samapriyaroy)
 [![GitHub Badge](https://img.shields.io/github/followers/samapriya?style=social)](https://github.com/samapriya?tab=followers)
 [![GDE Badge](https://img.shields.io/badge/GDE-Google%20Earth%20Engine-orange)](https://developers.google.com/community/experts/directory/profile/profile-samapriya-roy)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samapriya.samapriya)
@@ -7,7 +9,7 @@
 
 Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I believe data, tools, and platforms can benefit from each other if built around community and commons. 🌎My research interest has included big data analysis and large scale data science applications utilizing geospatial technology. I am passionate about satellite imagery, geospatial data, and data access at large and on how to make its use and implementation as openly available as possible. I am a community advocate and love to drive thought. 
 
-#### Blog posts
+:books: #### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [What’s new with the Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/whats-new-with-the-google-earth-engine-community-catalog-76e09a76a1ff?source=rss-3a3f6dbb93ce------2)
 - [Awesome Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/awesome-google-earth-engine-community-catalog-bd86d0ba63b8?source=rss-3a3f6dbb93ce------2)
@@ -33,3 +35,5 @@ Over the last decade or more I have been working with all things geospatial appl
 ![Samapriya Roy's GitHub stats](https://github-readme-stats-seven-hazel.vercel.app/api?username=samapriya&show_icons=true&theme=dark&count_private=true)
 
 **If you find my work useful buy me a cup of tea to make these efforts more sustainable. Use the donate or sponsor buttons, I am happy to have you as a sponsor of my work**
+
+<!--START_SECTION:activity-->
