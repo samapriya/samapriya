@@ -35,6 +35,8 @@ Over the last decade or more I have been working with all things geospatial appl
 ![Samapriya Roy's GitHub stats](https://github-readme-stats-seven-hazel.vercel.app/api?username=samapriya&show_icons=true&theme=dark&count_private=true)
 
 **If you find my work useful buy me a cup of tea to make these efforts more sustainable. Use the donate or sponsor buttons, I am happy to have you as a sponsor of my work**
+  
+#### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#91](https://github.com/samapriya/awesome-gee-community-datasets/issues/91) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
