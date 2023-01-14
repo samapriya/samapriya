@@ -9,13 +9,19 @@
 
 Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I believe data, tools, and platforms can benefit from each other if built around community and commons. 🌎My research interest has included big data analysis and large scale data science applications utilizing geospatial technology. I am passionate about satellite imagery, geospatial data, and data access at large and on how to make its use and implementation as openly available as possible. I am a community advocate and love to drive thought. 
 
-:books: #### Blog posts
+---
+<details>
+  <summary>:zap: Top Language Stats</summary>
+  
+  <img align="center" alt="Samapriya Roy's Top Language Stats" src="https://github-readme-stats-seven-hazel.vercel.app/api/top-langs/?username=samapriya&exclude_repo=training-workshop,education-research,&layout=compact" />
+
+</details>
+
+#### :books: Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [What’s new with the Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/whats-new-with-the-google-earth-engine-community-catalog-76e09a76a1ff?source=rss-3a3f6dbb93ce------2)
 - [Awesome Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/awesome-google-earth-engine-community-catalog-bd86d0ba63b8?source=rss-3a3f6dbb93ce------2)
 - [Microsoft Building Footprints in GEE: Revisiting Scale &amp; accessibility](https://samapriyaroy.medium.com/microsoft-building-footprints-in-gee-revisiting-scale-accessibility-eee5e97c17a3?source=rss-3a3f6dbb93ce------2)
-- [Open Ocean Data: with Argofloats Tool](https://samapriyaroy.medium.com/open-ocean-data-with-argofloats-tool-50efef6c4f05?source=rss-3a3f6dbb93ce------2)
-- [Open Ocean Data: with Aqualink &amp; pyaqua](https://samapriyaroy.medium.com/open-ocean-data-with-aqualink-pyaqua-32fb4d99c837?source=rss-3a3f6dbb93ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Open Source Projects 
@@ -28,18 +34,15 @@ Over the last decade or more I have been working with all things geospatial appl
 
 * Standalone tools : [nsfsearch: NSF award search tool](https://github.com/samapriya/nsfsearch) | [spotifind: Spotify tool to generate playlists](https://github.com/samapriya/spotifind) | [imgurfy: Simple CLI for Imgur](https://github.com/samapriya/imgurfy) | [pydrop: Simple client for digital ocean](https://github.com/samapriya/pydrop) | [ghome: Simple CLI for Google Home & Mini](https://github.com/samapriya/ghome)
 
-## Find me around the web 🌎: <a href="https://github.com/samapriya"><img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/6677629/89195331-a045af00-d576-11ea-96a1-f185f2821df6.png"></a>
-- Tinkering with tools on [GitHub](https://github.com/samapriya?tab=repositories) 🏓
-- Read my posts on [Medium](https://medium.com/@samapriyaroy) ✍🏾
-- Visit my updates on [LinkedIn](https://www.linkedin.com/in/samapriya/) 💼
-- Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/samapriyaroy"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
-
-![Samapriya Roy's GitHub stats](https://github-readme-stats-seven-hazel.vercel.app/api?username=samapriya&show_icons=true&theme=dark&count_private=true)
 
 **If you find my work useful buy me a cup of tea to make these efforts more sustainable. Use the donate or sponsor buttons, I am happy to have you as a sponsor of my work**
-  
-#### :zap: Recent Activity
 
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#91](https://github.com/samapriya/awesome-gee-community-datasets/issues/91) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 2. 🗣 Commented on [#65](https://github.com/lepisma/pipwin/issues/65) in [lepisma/pipwin](https://github.com/lepisma/pipwin)
@@ -47,3 +50,14 @@ Over the last decade or more I have been working with all things geospatial appl
 4. ❗️ Closed issue [#52](https://github.com/samapriya/geeup/issues/52) in [samapriya/geeup](https://github.com/samapriya/geeup)
 5. 🗣 Commented on [#52](https://github.com/samapriya/geeup/issues/52) in [samapriya/geeup](https://github.com/samapriya/geeup)
 <!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Samapriya Roy's GitHub Stats" src="https://github-readme-stats-seven-hazel.vercel.app/api?username=samapriya&show_icons=true&theme=dark&count_private=true" />
+
+</details>
