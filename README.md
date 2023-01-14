@@ -22,6 +22,8 @@ Over the last decade or more I have been working with all things geospatial appl
 - [What’s new with the Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/whats-new-with-the-google-earth-engine-community-catalog-76e09a76a1ff?source=rss-3a3f6dbb93ce------2)
 - [Awesome Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/awesome-google-earth-engine-community-catalog-bd86d0ba63b8?source=rss-3a3f6dbb93ce------2)
 - [Microsoft Building Footprints in GEE: Revisiting Scale &amp; accessibility](https://samapriyaroy.medium.com/microsoft-building-footprints-in-gee-revisiting-scale-accessibility-eee5e97c17a3?source=rss-3a3f6dbb93ce------2)
+- [Open Ocean Data: with Argofloats Tool](https://samapriyaroy.medium.com/open-ocean-data-with-argofloats-tool-50efef6c4f05?source=rss-3a3f6dbb93ce------2)
+- [Open Ocean Data: with Aqualink &amp; pyaqua](https://samapriyaroy.medium.com/open-ocean-data-with-aqualink-pyaqua-32fb4d99c837?source=rss-3a3f6dbb93ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Open Source Projects 
