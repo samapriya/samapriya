@@ -7,6 +7,10 @@
 
 Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I believe data, tools, and platforms can benefit from each other if built around community and commons. 🌎My research interest has included big data analysis and large scale data science applications utilizing geospatial technology. I am passionate about satellite imagery, geospatial data, and data access at large and on how to make its use and implementation as openly available as possible. I am a community advocate and love to drive thought. 
 
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### Open Source Projects 
 
 * Google Earth Engine: [awesome-gee-community-catalog](https://gee-community-catalog.org/) | [geeadd: Earth Engine Batch Asset Manager & addons](https://github.com/samapriya/gee_asset_manager_addon/) | [ee-appshot: Snapshot of Earth Engine Apps](https://github.com/samapriya/ee-appshot) | [geeup: Simple CLI for Earth Engine Uploads](https://github.com/samapriya/geeup) | [Earth Engine dataset list](https://github.com/samapriya/Earth-Engine-Datasets-List)
