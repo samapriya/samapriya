@@ -37,3 +37,9 @@ Over the last decade or more I have been working with all things geospatial appl
 **If you find my work useful buy me a cup of tea to make these efforts more sustainable. Use the donate or sponsor buttons, I am happy to have you as a sponsor of my work**
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#91](https://github.com/samapriya/awesome-gee-community-datasets/issues/91) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#65](https://github.com/lepisma/pipwin/issues/65) in [lepisma/pipwin](https://github.com/lepisma/pipwin)
+3. 🗣 Commented on [#84](https://github.com/samapriya/awesome-gee-community-datasets/issues/84) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❗️ Closed issue [#52](https://github.com/samapriya/geeup/issues/52) in [samapriya/geeup](https://github.com/samapriya/geeup)
+5. 🗣 Commented on [#52](https://github.com/samapriya/geeup/issues/52) in [samapriya/geeup](https://github.com/samapriya/geeup)
+<!--END_SECTION:activity-->
