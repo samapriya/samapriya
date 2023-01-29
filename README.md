@@ -46,11 +46,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/samapriya/awesome-gee-community-datasets/issues/58) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. ❗️ Closed issue [#90](https://github.com/samapriya/awesome-gee-community-datasets/issues/90) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#90](https://github.com/samapriya/awesome-gee-community-datasets/issues/90) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#66](https://github.com/lepisma/pipwin/issues/66) in [lepisma/pipwin](https://github.com/lepisma/pipwin)
-5. ❗️ Closed issue [#52](https://github.com/samapriya/awesome-gee-community-datasets/issues/52) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. ❗️ Closed issue [#58](https://github.com/samapriya/awesome-gee-community-datasets/issues/58) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#58](https://github.com/samapriya/awesome-gee-community-datasets/issues/58) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#58](https://github.com/samapriya/awesome-gee-community-datasets/issues/58) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❗️ Closed issue [#90](https://github.com/samapriya/awesome-gee-community-datasets/issues/90) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#90](https://github.com/samapriya/awesome-gee-community-datasets/issues/90) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
