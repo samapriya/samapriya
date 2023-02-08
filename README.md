@@ -46,11 +46,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#98](https://github.com/samapriya/awesome-gee-community-datasets/issues/98) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🗣 Commented on [#98](https://github.com/samapriya/awesome-gee-community-datasets/issues/98) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. ❗️ Closed issue [#73](https://github.com/samapriya/awesome-gee-community-datasets/issues/73) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#73](https://github.com/samapriya/awesome-gee-community-datasets/issues/73) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🗣 Commented on [#7](https://github.com/mapbiomas-brazil/user-toolkit/issues/7) in [mapbiomas-brazil/user-toolkit](https://github.com/mapbiomas-brazil/user-toolkit)
+1. 🗣 Commented on [#102](https://github.com/samapriya/awesome-gee-community-datasets/issues/102) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. ❗️ Closed issue [#98](https://github.com/samapriya/awesome-gee-community-datasets/issues/98) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#98](https://github.com/samapriya/awesome-gee-community-datasets/issues/98) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❗️ Closed issue [#73](https://github.com/samapriya/awesome-gee-community-datasets/issues/73) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#73](https://github.com/samapriya/awesome-gee-community-datasets/issues/73) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
