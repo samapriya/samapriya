@@ -47,10 +47,10 @@ Over the last decade or more I have been working with all things geospatial appl
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#123](https://github.com/samapriya/awesome-gee-community-datasets/issues/123) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. ❗️ Closed issue [#122](https://github.com/samapriya/awesome-gee-community-datasets/issues/122) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#122](https://github.com/samapriya/awesome-gee-community-datasets/issues/122) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#119](https://github.com/samapriya/awesome-gee-community-datasets/issues/119) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🗣 Commented on [#101](https://github.com/samapriya/awesome-gee-community-datasets/issues/101) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🎉 Merged PR [#123](https://github.com/samapriya/awesome-gee-community-datasets/pull/123) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#123](https://github.com/samapriya/awesome-gee-community-datasets/issues/123) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❗️ Closed issue [#122](https://github.com/samapriya/awesome-gee-community-datasets/issues/122) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#122](https://github.com/samapriya/awesome-gee-community-datasets/issues/122) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
