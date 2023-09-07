@@ -46,11 +46,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#147](https://github.com/samapriya/awesome-gee-community-datasets/issues/147) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🗣 Commented on [#147](https://github.com/samapriya/awesome-gee-community-datasets/issues/147#issuecomment-1707692930) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#147](https://github.com/samapriya/awesome-gee-community-datasets/issues/147#issuecomment-1707545610) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🎉 Merged PR [#12](https://github.com/conda-forge/geeadd-feedstock/pull/12) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
-5. ❌ Reopened PR [#12](https://github.com/conda-forge/geeadd-feedstock/pull/12) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
+1. 🗣 Commented on [#53](https://github.com/samapriya/awesome-gee-community-datasets/issues/53#issuecomment-1709402573) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔒 Closed issue [#147](https://github.com/samapriya/awesome-gee-community-datasets/issues/147) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#147](https://github.com/samapriya/awesome-gee-community-datasets/issues/147#issuecomment-1707692930) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#147](https://github.com/samapriya/awesome-gee-community-datasets/issues/147#issuecomment-1707545610) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🎉 Merged PR [#12](https://github.com/conda-forge/geeadd-feedstock/pull/12) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
 <!--END_SECTION:activity-->
 
 </details>
