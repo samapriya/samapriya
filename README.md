@@ -46,11 +46,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/samapriya/awesome-gee-community-datasets/issues/175#issuecomment-1736723402) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#15](https://github.com/samapriya/gee_asset_manager_addon/issues/15) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-3. 🔒 Closed issue [#14](https://github.com/samapriya/gee_asset_manager_addon/issues/14) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-4. 🚀 Published release [GEE Asset Manager with Addons](https://github.com/samapriya/gee_asset_manager_addon/releases/tag/1.0.0) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-5. 🔒 Closed issue [#177](https://github.com/samapriya/awesome-gee-community-datasets/issues/177) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🎉 Merged PR [#13](https://github.com/conda-forge/geeadd-feedstock/pull/13) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
+2. 🚀 Published release [geeup: Simple CLI for Earth Engine Uploads](https://github.com/samapriya/geeup/releases/tag/1.0.0) in [samapriya/geeup](https://github.com/samapriya/geeup)
+3. 🗣 Commented on [#175](https://github.com/samapriya/awesome-gee-community-datasets/issues/175#issuecomment-1736723402) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🔒 Closed issue [#15](https://github.com/samapriya/gee_asset_manager_addon/issues/15) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+5. 🔒 Closed issue [#14](https://github.com/samapriya/gee_asset_manager_addon/issues/14) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
 <!--END_SECTION:activity-->
 
 </details>
