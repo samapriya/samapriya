@@ -2,7 +2,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@samapriyaroy)
 [![GitHub Badge](https://img.shields.io/github/followers/samapriya?style=social)](https://github.com/samapriya?tab=followers)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109627075086849826?domain=https%3A%2F%2Fmapstodon.space%2F)](https://mapstodon.space/@samapriya)
-[![GDE Badge](https://img.shields.io/badge/GDE-Google%20Earth%20Engine-orange)](https://developers.google.com/community/experts/directory/profile/profile-samapriya-roy)
+[![GDE Badge](https://img.shields.io/badge/GDE-Google%20Earth%20Engine-orange)](https://g.dev/samapriya)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samapriya.samapriya)
 [![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Chai-teal)](https://www.buymeacoffee.com/samapriya)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
