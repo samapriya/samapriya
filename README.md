@@ -19,11 +19,11 @@ Over the last decade or more I have been working with all things geospatial appl
 
 #### :books: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How ClimateEngine.org and Awesome GEE Community Catalog are Expanding Open Geospatial Commons](https://samapriyaroy.medium.com/how-climateengine-org-and-awesome-gee-community-catalog-are-expanding-open-geospatial-commons-30120b1bfbaf?source=rss-3a3f6dbb93ce------2)
 - [Behind the Scenes: The Role of NSF’s Jetstream2 in Building the Awesome GEE Community Catalog](https://samapriyaroy.medium.com/behind-the-scenes-the-role-of-nsfs-jetstream2-in-building-the-awesome-gee-community-catalog-3f563b8cb9f0?source=rss-3a3f6dbb93ce------2)
 - [From Paper to Pixels- Rediscovering Historical USGS Topo Maps in the Google Earth Engine Community…](https://samapriyaroy.medium.com/from-paper-to-pixels-rediscovering-historical-usgs-topo-maps-in-the-google-earth-engine-community-f514c97c46a?source=rss-3a3f6dbb93ce------2)
 - [Community-Enhanced: Google Earth Engine Community Catalog Upgrades](https://samapriyaroy.medium.com/community-enhanced-google-earth-engine-community-catalog-upgrades-66d4b7076826?source=rss-3a3f6dbb93ce------2)
 - [Google Cloud Projects and Earth Engine Integration in Universities: A Practical Guide](https://samapriyaroy.medium.com/google-cloud-projects-and-earth-engine-integration-in-universities-a-practical-guide-fb16d8dad14a?source=rss-3a3f6dbb93ce------2)
-- [What’s new with the Google Earth Engine Community Catalog](https://samapriyaroy.medium.com/whats-new-with-the-google-earth-engine-community-catalog-76e09a76a1ff?source=rss-3a3f6dbb93ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Open Source Projects 
