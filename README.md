@@ -28,8 +28,7 @@ Over the last decade or more I have been working with all things geospatial appl
 
 #### Open Source Projects 
 
-* Google Earth Engine: [awesome-gee-community-catalog](https://gee-community-catalog.org/) | [geeadd: Earth Engine Batch Asset Manager & addons](https://github.com/samapriya/gee_asset_manager_addon/) | [ee-appshot: Snapshot of Earth Engine Apps](https://github.com/samapriya/ee-appshot) | [geeup: Simple CLI for Earth Engine Uploads](https://github.com/samapriya/geeup) | [Earth Engine dataset list](https://github.com/samapriya/Earth-Engine-Datasets-List)
-
+* Google Earth Engine: [awesome-gee-community-catalog](https://gee-community-catalog.org/) | [geeadd: Earth Engine Batch Asset Manager & addons](https://geeadd.geetools.xyz) | [ee-appshot: Snapshot of Earth Engine Apps](https://github.com/samapriya/ee-appshot) | [geeup: Simple CLI for Earth Engine Uploads](https://geeup.geetools.xyz) | [cogee: Simple CLI for COG registration in GEE](https://cogee.geetools.xyz) | [Earth Engine dataset list](https://github.com/samapriya/Earth-Engine-Datasets-List) | 
 * Open Oceans tools: [pycoral: Simple CLI for Allen Coral Atlas](https://samapriya.github.io/pycoral/) | [pyspotter: Simple CLI for SofarOcean API for spotters](https://samapriya.github.io/pyspotter/) | [pyaqua: Simple Command Line Interface Tool for Aqualink.org API](https://samapriya.github.io/pyaqua/) | [argofloats: Simple CLI for ArgoVis and Argofloats](https://samapriya.github.io/argofloats/) | [gfw: Simple CLI for Global Fishing Watch Data](https://samapriya.github.io/gfw)
 
 * Science platform tools : [appeears: Simple CLI for NASA AppEEARS API](https://github.com/samapriya/appeears) | [geneutils: NCBI Blast hit tools](https://github.com/samapriya/geneutils) | [pynative: Simple CLI for native-land.ca](https://github.com/samapriya/pynative) | [ArcticDEM: Batch search and download tools](https://github.com/samapriya/ArcticDEM-Batch-Pipeline) 
