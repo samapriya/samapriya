@@ -45,11 +45,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/2.0.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🎉 Merged PR [#185](https://github.com/samapriya/awesome-gee-community-datasets/pull/185) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🚀 Published release [Simple CLI for COGs in GEE](https://github.com/samapriya/cogee/releases/tag/1.0.1) in [samapriya/cogee](https://github.com/samapriya/cogee)
-4. 🔒 Closed issue [#184](https://github.com/samapriya/awesome-gee-community-datasets/issues/184) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🗣 Commented on [#184](https://github.com/samapriya/awesome-gee-community-datasets/issues/184#issuecomment-1755916931) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🚀 Published release [Simple CLI for Allen Coral Atlas](https://github.com/open-oceans/pycoral/releases/tag/0.2.0) in [open-oceans/pycoral](https://github.com/open-oceans/pycoral)
+2. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/2.0.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🎉 Merged PR [#185](https://github.com/samapriya/awesome-gee-community-datasets/pull/185) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🚀 Published release [Simple CLI for COGs in GEE](https://github.com/samapriya/cogee/releases/tag/1.0.1) in [samapriya/cogee](https://github.com/samapriya/cogee)
+5. 🔒 Closed issue [#184](https://github.com/samapriya/awesome-gee-community-datasets/issues/184) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
