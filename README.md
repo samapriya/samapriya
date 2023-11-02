@@ -45,11 +45,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/samapriya/awesome-gee-community-datasets/issues/187#issuecomment-1789080717) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🗣 Commented on [#115](https://github.com/samapriya/awesome-gee-community-datasets/issues/115#issuecomment-1785921884) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🚀 Published release [Simple CLI for Aqualink Org](https://github.com/open-oceans/pyaqua/releases/tag/0.2.0) in [open-oceans/pyaqua](https://github.com/open-oceans/pyaqua)
-4. 🚀 Published release [Simple CLI for Allen Coral Atlas](https://github.com/open-oceans/pycoral/releases/tag/0.2.0) in [open-oceans/pycoral](https://github.com/open-oceans/pycoral)
-5. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/2.0.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#770](https://github.com/google/earthengine-catalog/pull/770#issuecomment-1789863466) in [google/earthengine-catalog](https://github.com/google/earthengine-catalog)
+2. ❌ Closed PR [#770](https://github.com/google/earthengine-catalog/pull/770) in [google/earthengine-catalog](https://github.com/google/earthengine-catalog)
+3. 💪 Opened PR [#770](https://github.com/google/earthengine-catalog/pull/770) in [google/earthengine-catalog](https://github.com/google/earthengine-catalog)
+4. 🗣 Commented on [#187](https://github.com/samapriya/awesome-gee-community-datasets/issues/187#issuecomment-1789080717) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#115](https://github.com/samapriya/awesome-gee-community-datasets/issues/115#issuecomment-1785921884) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
