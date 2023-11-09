@@ -45,11 +45,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Simple CLI for Happywhales.com API](https://github.com/open-oceans/happywhale/releases/tag/0.0.2) in [open-oceans/happywhale](https://github.com/open-oceans/happywhale)
-2. 🗣 Commented on [#191](https://github.com/samapriya/awesome-gee-community-datasets/issues/191#issuecomment-1792886423) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🔒 Closed issue [#191](https://github.com/samapriya/awesome-gee-community-datasets/issues/191) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#188](https://github.com/samapriya/awesome-gee-community-datasets/issues/188#issuecomment-1791052424) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🔒 Closed issue [#188](https://github.com/samapriya/awesome-gee-community-datasets/issues/188) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192#issuecomment-1803201796) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔒 Closed issue [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192#issuecomment-1803184342) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🚀 Published release [Simple CLI for Happywhales.com API](https://github.com/open-oceans/happywhale/releases/tag/0.0.2) in [open-oceans/happywhale](https://github.com/open-oceans/happywhale)
+5. 🗣 Commented on [#191](https://github.com/samapriya/awesome-gee-community-datasets/issues/191#issuecomment-1792886423) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
