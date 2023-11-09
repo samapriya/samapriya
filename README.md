@@ -45,11 +45,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192#issuecomment-1803201796) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192#issuecomment-1803184342) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🚀 Published release [Simple CLI for Happywhales.com API](https://github.com/open-oceans/happywhale/releases/tag/0.0.2) in [open-oceans/happywhale](https://github.com/open-oceans/happywhale)
-5. 🗣 Commented on [#191](https://github.com/samapriya/awesome-gee-community-datasets/issues/191#issuecomment-1792886423) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/2.1.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192#issuecomment-1803201796) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#192](https://github.com/samapriya/awesome-gee-community-datasets/issues/192#issuecomment-1803184342) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🚀 Published release [Simple CLI for Happywhales.com API](https://github.com/open-oceans/happywhale/releases/tag/0.0.2) in [open-oceans/happywhale](https://github.com/open-oceans/happywhale)
 <!--END_SECTION:activity-->
 
 </details>
