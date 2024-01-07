@@ -45,11 +45,11 @@ Over the last decade or more I have been working with all things geospatial appl
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/samapriya/awesome-gee-community-datasets/issues/202#issuecomment-1877366836) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#202](https://github.com/samapriya/awesome-gee-community-datasets/issues/202) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#202](https://github.com/samapriya/awesome-gee-community-datasets/issues/202#issuecomment-1877240036) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🔒 Closed issue [#201](https://github.com/samapriya/awesome-gee-community-datasets/issues/201) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. ❗ Opened issue [#201](https://github.com/samapriya/awesome-gee-community-datasets/issues/201) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🎉 Merged PR [#204](https://github.com/samapriya/awesome-gee-community-datasets/pull/204) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#202](https://github.com/samapriya/awesome-gee-community-datasets/issues/202#issuecomment-1877366836) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#202](https://github.com/samapriya/awesome-gee-community-datasets/issues/202) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#202](https://github.com/samapriya/awesome-gee-community-datasets/issues/202#issuecomment-1877240036) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🔒 Closed issue [#201](https://github.com/samapriya/awesome-gee-community-datasets/issues/201) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
