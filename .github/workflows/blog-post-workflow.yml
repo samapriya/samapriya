@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           remove_duplicates: true
-          feed_list: "https://samapriyaroy.medium.com/feed,https://datacommons.substack.com/feed"
+          feed_list: "https://samapriyaroy.medium.com/feed"
