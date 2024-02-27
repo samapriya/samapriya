@@ -1,13 +1,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samapriya/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719.svg?style=flat&logo=Substack&logoColor=white)](https://datacommons.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@samapriyaroy)
+[![GDE Badge](https://img.shields.io/badge/GDE-Google%20Earth%20Engine-orange)](https://g.dev/samapriya)
 [![GitHub Badge](https://img.shields.io/github/followers/samapriya?style=social)](https://github.com/samapriya?tab=followers)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109627075086849826?domain=https%3A%2F%2Fmapstodon.space%2F)](https://mapstodon.space/@samapriya)
-[![GDE Badge](https://img.shields.io/badge/GDE-Google%20Earth%20Engine-orange)](https://g.dev/samapriya)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samapriya.samapriya)
-[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Coffee-teal)](https://www.buymeacoffee.com/samapriya)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
 
-Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I am a Senior Product Manager at MAXAR incharge of building the Developer Relations team and core APIs. I am the creator of Awesome Google Earth Engine Community Catalog. I am also an affiliate Faculty at University of Hawaiʻi at Mānoa and Designated Campus Colleague at the University of Arizona. I advocate for science communication, serve as a thought leader, and teach geospatial applications. I believe in fostering community and commons-based data, tools, and platforms for mutual benefit. My research delves into big data analysis and geospatial technology's applications, while championing open data access. A passionate community advocate, and a speaker I like to drive ideas.
+Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. A 
+Google Developer Expert for Google Earth Engine and Senior Product Manager at MAXAR, I lead Developer Relations and champion open data access apart from working on core APIs 
+and infrastructure. I leverage geospatial expertise as an affiliate Faculty at the University of Hawaiʻi at Mānoa and I am a Designated Campus Colleague at the University of 
+Arizona. Passionate about community building, I created the "Awesome Google Earth Engine Community Catalog," a thriving data commons. My research explores big data analysis 
+and geospatial applications, while I advocate for science communication and empower researchers through collaborative platforms and speaking engagements.
+
 
 ---
 <details>
