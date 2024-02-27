@@ -16,4 +16,4 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          feed_list: "https://medium.com/feed/@samapriyaroy"
+          feed_list: "https://samapriyaroy.medium.com/feed,https://datacommons.substack.com/feed"
