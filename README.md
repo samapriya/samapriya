@@ -50,11 +50,11 @@ and geospatial applications, while I advocate for science communication and empo
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/samapriya/gee_asset_manager_addon/issues/18#issuecomment-1980354843) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-2. 🔒 Closed issue [#18](https://github.com/samapriya/gee_asset_manager_addon/issues/18) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-3. 🗣 Commented on [#205](https://github.com/samapriya/awesome-gee-community-datasets/issues/205#issuecomment-1975747760) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#216](https://github.com/samapriya/awesome-gee-community-datasets/issues/216#issuecomment-1975389010) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🔒 Closed issue [#212](https://github.com/samapriya/awesome-gee-community-datasets/issues/212) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#216](https://github.com/samapriya/awesome-gee-community-datasets/issues/216#issuecomment-1982354852) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔒 Closed issue [#216](https://github.com/samapriya/awesome-gee-community-datasets/issues/216) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#18](https://github.com/samapriya/gee_asset_manager_addon/issues/18#issuecomment-1980354843) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+4. 🔒 Closed issue [#18](https://github.com/samapriya/gee_asset_manager_addon/issues/18) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+5. 🗣 Commented on [#205](https://github.com/samapriya/awesome-gee-community-datasets/issues/205#issuecomment-1975747760) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
