@@ -7,12 +7,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samapriya.samapriya)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
 
-Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. A 
-Google Developer Expert for Google Earth Engine and Senior Product Manager at MAXAR, I lead Developer Relations and champion open data access apart from working on core APIs 
-and infrastructure. I leverage geospatial expertise as an affiliate Faculty at the University of Hawaiʻi at Mānoa and I am a Designated Campus Colleague at the University of 
-Arizona. Passionate about community building, I created the "Awesome Google Earth Engine Community Catalog," a thriving data commons. My research explores big data analysis 
-and geospatial applications, while I advocate for science communication and empower researchers through collaborative platforms and speaking engagements.
+Over the last decade or more I have been working with all things geospatial. From building applications to teaching, training and acting as a translator at large for technology needs. A Google Developer Expert for Google Earth Engine and Senior Product Manager at MAXAR, I lead Developer Relations and champion open data access apart from working on core APIs and infrastructure. 
 
+I leverage geospatial expertise as an affiliate Faculty at the University of Hawaiʻi at Mānoa and I am a Designated Campus Colleague at the University of Arizona. Passionate about community building, I created the "Awesome Google Earth Engine Community Catalog," a thriving data commons. My research explores big data analysis and geospatial applications, while I advocate for science communication and empower researchers through collaborative platforms and speaking engagements.
 
 ---
 <details>
