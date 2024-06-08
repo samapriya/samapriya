@@ -47,11 +47,11 @@ I leverage geospatial expertise as an affiliate Faculty at the University of Haw
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#249](https://github.com/samapriya/awesome-gee-community-datasets/issues/249) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. ❌ Closed PR [#15](https://github.com/conda-forge/geeadd-feedstock/pull/15) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
-3. 🎉 Merged PR [#16](https://github.com/conda-forge/geeadd-feedstock/pull/16) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
-4. 🚀 Published release [GEE Asset Manager with Addons](https://github.com/samapriya/gee_asset_manager_addon/releases/tag/1.2.0) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-5. ❗ Opened issue [#253](https://github.com/samapriya/awesome-gee-community-datasets/issues/253) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🔒 Closed issue [#248](https://github.com/samapriya/awesome-gee-community-datasets/issues/248) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#248](https://github.com/samapriya/awesome-gee-community-datasets/issues/248#issuecomment-2156126431) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#249](https://github.com/samapriya/awesome-gee-community-datasets/issues/249) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❌ Closed PR [#15](https://github.com/conda-forge/geeadd-feedstock/pull/15) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
+5. 🎉 Merged PR [#16](https://github.com/conda-forge/geeadd-feedstock/pull/16) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
 <!--END_SECTION:activity-->
 
 </details>
