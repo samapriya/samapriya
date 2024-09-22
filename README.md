@@ -47,11 +47,11 @@ I created the [**Awesome Google Earth Engine Community Catalog**](https://gee-co
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/yuchima8/QDANN_Yield_Map/issues/1) in [yuchima8/QDANN_Yield_Map](https://github.com/yuchima8/QDANN_Yield_Map)
-2. 🗣 Commented on [#290](https://github.com/samapriya/awesome-gee-community-datasets/issues/290#issuecomment-2365324495) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🔒 Closed issue [#290](https://github.com/samapriya/awesome-gee-community-datasets/issues/290) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. ❗ Opened issue [#290](https://github.com/samapriya/awesome-gee-community-datasets/issues/290) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🗣 Commented on [#19](https://github.com/samapriya/gee_asset_manager_addon/pull/19#issuecomment-2359900489) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+1. 🗣 Commented on [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291#issuecomment-2365689583) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔒 Closed issue [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. ❗ Opened issue [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❗ Opened issue [#1](https://github.com/yuchima8/QDANN_Yield_Map/issues/1) in [yuchima8/QDANN_Yield_Map](https://github.com/yuchima8/QDANN_Yield_Map)
+5. 🗣 Commented on [#290](https://github.com/samapriya/awesome-gee-community-datasets/issues/290#issuecomment-2365324495) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
