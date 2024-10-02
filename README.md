@@ -47,11 +47,11 @@ I created the [**Awesome Google Earth Engine Community Catalog**](https://gee-co
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291#issuecomment-2365689583) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. ❗ Opened issue [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. ❗ Opened issue [#1](https://github.com/yuchima8/QDANN_Yield_Map/issues/1) in [yuchima8/QDANN_Yield_Map](https://github.com/yuchima8/QDANN_Yield_Map)
-5. 🗣 Commented on [#290](https://github.com/samapriya/awesome-gee-community-datasets/issues/290#issuecomment-2365324495) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#295](https://github.com/samapriya/awesome-gee-community-datasets/issues/295#issuecomment-2387762309) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291#issuecomment-2365689583) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. ❗ Opened issue [#291](https://github.com/samapriya/awesome-gee-community-datasets/issues/291) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. ❗ Opened issue [#1](https://github.com/yuchima8/QDANN_Yield_Map/issues/1) in [yuchima8/QDANN_Yield_Map](https://github.com/yuchima8/QDANN_Yield_Map)
 <!--END_SECTION:activity-->
 
 </details>
