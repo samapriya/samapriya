@@ -47,11 +47,11 @@ I created the [**Awesome Google Earth Engine Community Catalog**](https://gee-co
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/samapriya/awesome-gee-community-datasets/issues/299#issuecomment-2495740981) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#299](https://github.com/samapriya/awesome-gee-community-datasets/issues/299) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🎉 Merged PR [#312](https://github.com/samapriya/awesome-gee-community-datasets/pull/312) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#304](https://github.com/samapriya/awesome-gee-community-datasets/issues/304#issuecomment-2475435117) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🔒 Closed issue [#304](https://github.com/samapriya/awesome-gee-community-datasets/issues/304) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#276](https://github.com/samapriya/awesome-gee-community-datasets/issues/276#issuecomment-2516198952) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔓 Reopened issue [#276](https://github.com/samapriya/awesome-gee-community-datasets/issues/276) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#299](https://github.com/samapriya/awesome-gee-community-datasets/issues/299#issuecomment-2495740981) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🔒 Closed issue [#299](https://github.com/samapriya/awesome-gee-community-datasets/issues/299) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🎉 Merged PR [#312](https://github.com/samapriya/awesome-gee-community-datasets/pull/312) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
