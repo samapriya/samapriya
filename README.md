@@ -47,11 +47,11 @@ I created the [**Awesome Google Earth Engine Community Catalog**](https://gee-co
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/samapriya/awesome-gee-community-datasets/issues/271#issuecomment-2629504215) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#271](https://github.com/samapriya/awesome-gee-community-datasets/issues/271) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#241](https://github.com/samapriya/awesome-gee-community-datasets/issues/241#issuecomment-2629490491) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🔒 Closed issue [#241](https://github.com/samapriya/awesome-gee-community-datasets/issues/241) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🗣 Commented on [#178](https://github.com/samapriya/awesome-gee-community-datasets/issues/178#issuecomment-2628362221) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#275](https://github.com/samapriya/awesome-gee-community-datasets/issues/275#issuecomment-2631144665) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔒 Closed issue [#275](https://github.com/samapriya/awesome-gee-community-datasets/issues/275) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#284](https://github.com/samapriya/awesome-gee-community-datasets/issues/284#issuecomment-2631140871) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🔒 Closed issue [#284](https://github.com/samapriya/awesome-gee-community-datasets/issues/284) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#271](https://github.com/samapriya/awesome-gee-community-datasets/issues/271#issuecomment-2629504215) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
