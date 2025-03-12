@@ -7,9 +7,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samapriya.samapriya)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
 
-Over the last decade or more I have been working with all things geospatial. From building applications to teaching, training and acting as a translator at large for technology needs. A [**Google Developer Expert**](https://g.dev/samapriya) for Google Earth Engine and Senior Product Manager at MAXAR, I lead Developer Relations and champion open data access apart from working on core APIs and infrastructure. 
+Geospatial innovator, open-source advocate, and community builder. Founder of the [**Awesome Google Earth Engine Community Catalog**](https://gee-community-catalog.org/), the largest community-driven geospatial dataset hub. CEO of Spatial Bytes, driving cutting-edge geospatial solutions. Formerly at Planet Labs and Maxar, leading product and API innovations. [**Google Developer Expert for Earth Engine**](https://g.dev/samapriya) and advisor to [**NSF NEON**](https://www.neonscience.org/), committed to expanding open data access and empowering global geospatial communities.  
 
-I created the [**Awesome Google Earth Engine Community Catalog**](https://gee-community-catalog.org/), a thriving data commons welcoming over half a million monthly visits from over 160+ countries. I leverage geospatial expertise as an affiliate Faculty at the **University of Hawaiʻi at Mānoa** and I am a Designated Campus Colleague at the **University of Arizona**. Passionate about community building, My research explores big data analysis and geospatial applications, while I advocate for science communication and empower researchers through collaborative platforms and speaking engagements.
+Research Scientist and Senior Geospatial Engineer at the [**Desert Research Institute**](https://dri.edu). Affiliate Faculty at the **University of Hawaiʻi at Mānoa** and Designated Campus Colleague at the **University of Arizona**. Passionate about community building, my research explores big data analysis and geospatial applications, while I advocate for science communication and empower researchers through collaborative platforms and speaking engagements.
 
 ---
 <details>
