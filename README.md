@@ -47,11 +47,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#45](https://github.com/ErugoOSS/Erugo/issues/45) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
-2. 🗣 Commented on [#328](https://github.com/samapriya/awesome-gee-community-datasets/issues/328#issuecomment-2710896812) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🔒 Closed issue [#328](https://github.com/samapriya/awesome-gee-community-datasets/issues/328) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#329](https://github.com/samapriya/awesome-gee-community-datasets/issues/329#issuecomment-2710894060) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🔒 Closed issue [#329](https://github.com/samapriya/awesome-gee-community-datasets/issues/329) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727032704) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+2. 🔒 Closed issue [#45](https://github.com/ErugoOSS/Erugo/issues/45) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+3. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727030226) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+4. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727025023) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+5. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727023371) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
 <!--END_SECTION:activity-->
 
 </details>
