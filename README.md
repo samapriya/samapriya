@@ -47,11 +47,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#335](https://github.com/samapriya/awesome-gee-community-datasets/pull/335) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727032704) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
-3. 🔒 Closed issue [#45](https://github.com/ErugoOSS/Erugo/issues/45) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
-4. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727030226) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
-5. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727025023) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+1. 🗣 Commented on [#336](https://github.com/samapriya/awesome-gee-community-datasets/issues/336#issuecomment-2742480792) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🎉 Merged PR [#335](https://github.com/samapriya/awesome-gee-community-datasets/pull/335) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727032704) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+4. 🔒 Closed issue [#45](https://github.com/ErugoOSS/Erugo/issues/45) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
+5. 🗣 Commented on [#45](https://github.com/ErugoOSS/Erugo/issues/45#issuecomment-2727030226) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
 <!--END_SECTION:activity-->
 
 </details>
