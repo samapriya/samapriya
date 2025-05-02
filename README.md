@@ -47,11 +47,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#109](https://github.com/samapriya/awesome-gee-community-datasets/issues/109) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🗣 Commented on [#344](https://github.com/samapriya/awesome-gee-community-datasets/issues/344#issuecomment-2819824775) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🔒 Closed issue [#344](https://github.com/samapriya/awesome-gee-community-datasets/issues/344) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🚀 Published release [PhenoCam Command Line Tool](https://github.com/samapriya/phenofetch/releases/tag/0.2.1) in [samapriya/phenofetch](https://github.com/samapriya/phenofetch)
-5. 🗣 Commented on [#339](https://github.com/samapriya/awesome-gee-community-datasets/issues/339#issuecomment-2799311126) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🎉 Merged PR [#1](https://github.com/samapriya/evap-docs/pull/1) in [samapriya/evap-docs](https://github.com/samapriya/evap-docs)
+2. 🎉 Merged PR [#2](https://github.com/samapriya/evap-docs/pull/2) in [samapriya/evap-docs](https://github.com/samapriya/evap-docs)
+3. 🔒 Closed issue [#109](https://github.com/samapriya/awesome-gee-community-datasets/issues/109) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#344](https://github.com/samapriya/awesome-gee-community-datasets/issues/344#issuecomment-2819824775) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🔒 Closed issue [#344](https://github.com/samapriya/awesome-gee-community-datasets/issues/344) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
