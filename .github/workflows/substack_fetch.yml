@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser requests beautifulsoup4 python-dateutil fake-useragent
 
-      - name: Run script to fetch Substack posts
+      - name: Run script to fetch Substack posts and update README
         uses: jannekem/run-python-script-action@v1
         with:
           script: |
@@ -30,8 +30,10 @@ jobs:
             import random
             import time
             import requests
+            import os
             from datetime import datetime
             from fake_useragent import UserAgent
+            from bs4 import BeautifulSoup
 
             def fetch_substack_feed(feed_url):
                 """Fetch Substack feed with proxy rotation to avoid IP blocks"""
@@ -232,6 +234,72 @@ jobs:
                 random.shuffle(all_proxies)
                 return all_proxies[:10]  # Limit to 10 proxies to try
             
+            def get_blog_info(feed_data, num_entries=5):
+                """
+                Extracts blog titles and links from feed data.
+                Args:
+                    feed_data: The feed data returned by fetch_substack_feed.
+                    num_entries: The number of entries to extract (default: 5).
+                Returns:
+                    A list of dictionaries, each containing the title and link for a blog entry.
+                """
+                entries = []
+                if not feed_data or "entries" not in feed_data:
+                    print("No entries found in feed data")
+                    return entries
+                
+                for entry in feed_data["entries"][:num_entries]:
+                    title = entry.get("title", "Unknown Title")
+                    link = entry.get("link", "#")
+                    
+                    entry_data = {
+                        "title": title,
+                        "link": link
+                    }
+                    entries.append(entry_data)
+                
+                return entries
+
+            def update_markdown_file(filename, blog_info, start_marker, end_marker):
+                """
+                Updates a markdown file with blog info between specified markers.
+                Args:
+                    filename: The name of the markdown file.
+                    blog_info: A list of dictionaries containing blog title and link.
+                    start_marker: The marker indicating the start of the section to update.
+                    end_marker: The marker indicating the end of the section to update.
+                """
+                try:
+                    with open(filename, 'r', encoding='utf-8') as f:
+                        file_content = f.read()
+
+                    start_index = file_content.find(start_marker)
+                    if start_index == -1:
+                        print(f"Start marker '{start_marker}' not found in {filename}")
+                        return False
+                    
+                    start_index += len(start_marker)
+                    
+                    end_index = file_content.find(end_marker, start_index)
+                    if end_index == -1:
+                        print(f"End marker '{end_marker}' not found in {filename}")
+                        return False
+
+                    new_content = ""
+                    for entry in blog_info:
+                        new_content += f"* [{entry['title']}]({entry['link']})\n"
+
+                    updated_content = file_content[:start_index] + "\n" + new_content + file_content[end_index:]
+
+                    with open(filename, 'w', encoding='utf-8') as f:
+                        f.write(updated_content)
+                    
+                    print(f"Updated {filename} successfully!")
+                    return True
+                except Exception as e:
+                    print(f"Error updating markdown file: {e}")
+                    return False
+            
             # Main execution
             print("Starting Substack blog post fetcher...")
             
@@ -241,7 +309,7 @@ jobs:
             # Fetch the feed
             feed_data = fetch_substack_feed(FEED_URL)
             
-            # Print the latest 5 posts
+            # Print the latest 5 posts for the log
             if feed_data and "entries" in feed_data and feed_data["entries"]:
                 print("\n========= LATEST 5 SUBSTACK BLOG POSTS =========\n")
                 
@@ -252,8 +320,31 @@ jobs:
                     print("")
                 
                 print("===============================================")
+                
+                # Get blog info and update README.md
+                blog_info = get_blog_info(feed_data, 5)
+                
+                # Update README.md
+                filename = "README.md"
+                start_marker = "<!-- START_MARKER -->"
+                end_marker = "<!-- END_MARKER -->"
+                
+                success = update_markdown_file(filename, blog_info, start_marker, end_marker)
+                
+                if success:
+                    print("README.md updated successfully with the latest blog posts!")
+                else:
+                    print("Failed to update README.md")
             else:
                 print("No blog posts found or failed to fetch the feed.")
 
       - name: Show fetch results
         run: cat *.log || echo "No log file found"
+        
+      - name: Commit changes if README was updated
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Substack blog links in README.md"
+          git push
