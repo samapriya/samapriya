@@ -22,6 +22,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
 #### :books: Blog posts
 
 <!-- START_MARKER -->
+* [Pixels, Petabytes, and People: The Five-Year Journey of the GEE Community Catalog](https://datacommons.substack.com/p/pixels-petabytes-and-people-the-five)
+* [Building the Community Catalog Browser: A Visual Field Guide](https://datacommons.substack.com/p/building-the-community-catalog-browser)
+* [Data with a Purpose: Nearly 4000 Datasets and our view from Above](https://datacommons.substack.com/p/data-with-a-purpose-nearly-4000-datasets)
+* [Measure Twice, Compress Once: Tales of Compression in the Community Catalog](https://datacommons.substack.com/p/measure-twice-compress-once-tales)
+* [Insights to Enhancements: Unpacking GEE Community Catalog Release 3.1.0](https://datacommons.substack.com/p/insights-to-enhancements-unpacking)
 <!-- END_MARKER -->
 
 #### Open Source Projects 
