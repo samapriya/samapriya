@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4 python-dateutil requests-random-user-agent
+          pip install feedparser requests beautifulsoup4 python-dateutil fake-useragent
 
       - name: Run script to fetch Substack posts
         uses: jannekem/run-python-script-action@v1
@@ -31,7 +31,7 @@ jobs:
             import time
             import requests
             from datetime import datetime
-            from requests_random_user_agent import RandomUserAgent
+            from fake_useragent import UserAgent
 
             def fetch_substack_feed(feed_url):
                 """Fetch Substack feed with proxy rotation to avoid IP blocks"""
@@ -46,7 +46,8 @@ jobs:
                 proxies = get_proxies(free_proxy_lists)
                 
                 # Set up headers with random user agent
-                headers = {"User-Agent": RandomUserAgent().get_random_user_agent()}
+                ua = UserAgent()
+                headers = {"User-Agent": ua.random}
                 
                 # First try without proxy
                 try:
@@ -103,20 +104,97 @@ jobs:
                 except Exception as e:
                     print(f"Fallback method failed: {e}")
                 
-                # Final fallback: try with Tor
+                # Additional fallback: Try alternative RSS services that can proxy the request
+                print("Trying alternative RSS services...")
+                alternative_services = [
+                    f"https://feedproxy.google.com/{feed_url}",
+                    f"https://feed2json.org/convert?url={feed_url}",
+                    f"https://cloud.feedly.com/v3/streams/contents?streamId=feed%2F{feed_url}"
+                ]
+                
+                for service_url in alternative_services:
+                    try:
+                        print(f"Trying service: {service_url}")
+                        response = requests.get(service_url, headers=headers, timeout=15)
+                        if response.status_code == 200:
+                            print(f"Service fetch successful with {service_url}")
+                            try:
+                                return feedparser.parse(response.content)
+                            except:
+                                # If feedparser fails, try to extract data from JSON response
+                                try:
+                                    json_data = response.json()
+                                    feed_data = {"entries": []}
+                                    
+                                    # Handle different service response formats
+                                    if "items" in json_data:
+                                        items = json_data["items"]
+                                    elif "contents" in json_data:
+                                        items = json_data["contents"]
+                                    else:
+                                        items = []
+                                    
+                                    for item in items:
+                                        entry = {
+                                            "title": item.get("title", ""),
+                                            "link": item.get("link", "") or item.get("url", "") or item.get("alternate", [{}])[0].get("href", ""),
+                                            "published": item.get("published", "") or item.get("pubDate", "") or item.get("updated", ""),
+                                            "summary": item.get("description", "") or item.get("summary", "") or item.get("content", "")
+                                        }
+                                        feed_data["entries"].append(entry)
+                                    
+                                    return feed_data
+                                except:
+                                    print("Failed to parse JSON response")
+                    except Exception as e:
+                        print(f"Service fetch failed with {service_url}: {e}")
+                    
+                    # Add delay between requests
+                    time.sleep(1)
+                
+                # Last resort: Try to scrape the HTML page directly
                 try:
-                    print("Trying with Tor circuit...")
-                    # This requires tor to be installed and running
-                    tor_proxy = {
-                        'http': 'socks5h://localhost:9050',
-                        'https': 'socks5h://localhost:9050'
-                    }
-                    response = requests.get(feed_url, headers=headers, proxies=tor_proxy, timeout=30)
+                    print("Trying to scrape the HTML page directly...")
+                    substack_url = feed_url.replace("/feed", "")
+                    response = requests.get(substack_url, headers=headers, timeout=20)
+                    
                     if response.status_code == 200:
-                        print("Tor fetch successful!")
-                        return feedparser.parse(response.content)
+                        from bs4 import BeautifulSoup
+                        
+                        soup = BeautifulSoup(response.text, 'html.parser')
+                        entries = []
+                        
+                        # Find all post entries on the page
+                        post_elements = soup.select('.post-preview')
+                        
+                        for i, post in enumerate(post_elements[:5]):  # Only process up to 5 posts
+                            try:
+                                title_elem = post.select_one('.post-preview-title')
+                                link_elem = post.select_one('a.post-preview-content')
+                                date_elem = post.select_one('.post-preview-date')
+                                
+                                title = title_elem.text.strip() if title_elem else "No title"
+                                link = link_elem['href'] if link_elem and 'href' in link_elem.attrs else ""
+                                published = date_elem.text.strip() if date_elem else ""
+                                
+                                # Make sure links are absolute
+                                if link and not link.startswith('http'):
+                                    link = f"{substack_url.rstrip('/')}{link}"
+                                
+                                entries.append({
+                                    'title': title,
+                                    'link': link,
+                                    'published': published,
+                                    'summary': ''
+                                })
+                            except Exception as e:
+                                print(f"Error parsing post {i}: {e}")
+                        
+                        if entries:
+                            print("Successfully scraped posts from HTML!")
+                            return {"entries": entries}
                 except Exception as e:
-                    print(f"Tor fetch failed: {e}")
+                    print(f"HTML scraping failed: {e}")
                 
                 # If all methods fail, return empty structure
                 print("All fetch methods failed!")
@@ -128,7 +206,8 @@ jobs:
                 from bs4 import BeautifulSoup
                 
                 all_proxies = []
-                headers = {"User-Agent": RandomUserAgent().get_random_user_agent()}
+                ua = UserAgent()
+                headers = {"User-Agent": ua.random}
                 
                 for url in proxy_list_urls:
                     try:
