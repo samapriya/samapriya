@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/samapriya/awesome-gee-community-datasets/issues/352#issuecomment-2875218009) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🗣 Commented on [#352](https://github.com/samapriya/awesome-gee-community-datasets/issues/352#issuecomment-2869893130) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🎉 Merged PR [#4](https://github.com/samapriya/evap-docs/pull/4) in [samapriya/evap-docs](https://github.com/samapriya/evap-docs)
-4. 🎉 Merged PR [#3](https://github.com/samapriya/evap-docs/pull/3) in [samapriya/evap-docs](https://github.com/samapriya/evap-docs)
-5. 🎉 Merged PR [#1](https://github.com/samapriya/evap-docs/pull/1) in [samapriya/evap-docs](https://github.com/samapriya/evap-docs)
+1. 🗣 Commented on [#345](https://github.com/samapriya/awesome-gee-community-datasets/issues/345#issuecomment-2884669145) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🔒 Closed issue [#345](https://github.com/samapriya/awesome-gee-community-datasets/issues/345) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🗣 Commented on [#346](https://github.com/samapriya/awesome-gee-community-datasets/issues/346#issuecomment-2884668519) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🔒 Closed issue [#346](https://github.com/samapriya/awesome-gee-community-datasets/issues/346) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#349](https://github.com/samapriya/awesome-gee-community-datasets/issues/349#issuecomment-2884626322) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
