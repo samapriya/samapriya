@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#382](https://github.com/samapriya/awesome-gee-community-datasets/pull/382#issuecomment-3340171448) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. ❌ Closed PR [#382](https://github.com/samapriya/awesome-gee-community-datasets/pull/382) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#382](https://github.com/samapriya/awesome-gee-community-datasets/pull/382#issuecomment-3339832819) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#380](https://github.com/samapriya/awesome-gee-community-datasets/pull/380#issuecomment-3310842292) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🎉 Merged PR [#380](https://github.com/samapriya/awesome-gee-community-datasets/pull/380) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🎉 Merged PR [#366](https://github.com/samapriya/awesome-gee-community-datasets/pull/366) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#382](https://github.com/samapriya/awesome-gee-community-datasets/pull/382#issuecomment-3340171448) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. ❌ Closed PR [#382](https://github.com/samapriya/awesome-gee-community-datasets/pull/382) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#382](https://github.com/samapriya/awesome-gee-community-datasets/pull/382#issuecomment-3339832819) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#380](https://github.com/samapriya/awesome-gee-community-datasets/pull/380#issuecomment-3310842292) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
