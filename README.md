@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#394](https://github.com/samapriya/awesome-gee-community-datasets/pull/394#issuecomment-3518692464) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#357](https://github.com/samapriya/awesome-gee-community-datasets/issues/357) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#357](https://github.com/samapriya/awesome-gee-community-datasets/issues/357#issuecomment-3454487219) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4.  Labeled issue [#384](https://github.com/samapriya/awesome-gee-community-datasets/issues/384) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🔒 Closed issue [#387](https://github.com/samapriya/awesome-gee-community-datasets/issues/387) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/3.9.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#394](https://github.com/samapriya/awesome-gee-community-datasets/pull/394#issuecomment-3518692464) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#357](https://github.com/samapriya/awesome-gee-community-datasets/issues/357) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#357](https://github.com/samapriya/awesome-gee-community-datasets/issues/357#issuecomment-3454487219) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5.  Labeled issue [#384](https://github.com/samapriya/awesome-gee-community-datasets/issues/384) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
