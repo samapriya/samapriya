@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/samapriya/gee_asset_manager_addon/pull/24#issuecomment-3569461965) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-2. ❌ Closed PR [#24](undefined) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-3. ❌ Closed PR [#23](undefined) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-4. 🗣 Commented on [#23](https://github.com/samapriya/gee_asset_manager_addon/pull/23#issuecomment-3569459533) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-5. 🔒 Closed issue [#21](https://github.com/samapriya/gee_asset_manager_addon/issues/21) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+1. ❌ Closed PR [#18](undefined) in [conda-forge/geeadd-feedstock](https://github.com/conda-forge/geeadd-feedstock)
+2. 🗣 Commented on [#24](https://github.com/samapriya/gee_asset_manager_addon/pull/24#issuecomment-3569461965) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+3. ❌ Closed PR [#24](undefined) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+4. ❌ Closed PR [#23](undefined) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+5. 🗣 Commented on [#23](https://github.com/samapriya/gee_asset_manager_addon/pull/23#issuecomment-3569459533) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
 <!--END_SECTION:activity-->
 
 </details>
