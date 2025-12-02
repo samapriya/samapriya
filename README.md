@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/samapriya/gee_asset_manager_addon/pull/35#issuecomment-3604154390) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-2. 🗣 Commented on [#30](https://github.com/samapriya/gee_asset_manager_addon/issues/30#issuecomment-3603329515) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-3. 🗣 Commented on [#30](https://github.com/samapriya/gee_asset_manager_addon/issues/30#issuecomment-3599449840) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-4. 🚀 Published release [GEE Asset Manager with Addons](https://github.com/samapriya/gee_asset_manager_addon/releases/tag/2.1.0) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
-5. 🗣 Commented on [#29](https://github.com/samapriya/gee_asset_manager_addon/issues/29#issuecomment-3597706099) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+1. 🗣 Commented on [#35](https://github.com/samapriya/gee_asset_manager_addon/pull/35#issuecomment-3604160519) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+2. 🗣 Commented on [#35](https://github.com/samapriya/gee_asset_manager_addon/pull/35#issuecomment-3604154390) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+3. 🗣 Commented on [#30](https://github.com/samapriya/gee_asset_manager_addon/issues/30#issuecomment-3603329515) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+4. 🗣 Commented on [#30](https://github.com/samapriya/gee_asset_manager_addon/issues/30#issuecomment-3599449840) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+5. 🚀 Published release [GEE Asset Manager with Addons](https://github.com/samapriya/gee_asset_manager_addon/releases/tag/2.1.0) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
 <!--END_SECTION:activity-->
 
 </details>
