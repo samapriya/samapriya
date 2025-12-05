@@ -22,11 +22,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
 #### :books: Blog posts
 
 <!-- START_MARKER -->
+* [Release 3.9.0: Celebrating the Digital Commons and Our Five Millionth Query this Month](https://datacommons.substack.com/p/release-390-celebrating-the-digital)
 * [Installing &amp; Updating to GDAL 3.11.0 on Ubuntu: A Ground Up Rewrite](https://datacommons.substack.com/p/installing-and-updating-to-gdal-3110)
 * [Plug and Play Earth Engine Search Agents with Google’s Agent Development Kit](https://datacommons.substack.com/p/plug-and-play-earth-engine-search)
 * [Pixels, Petabytes, and People: The Five-Year Journey of the GEE Community Catalog](https://datacommons.substack.com/p/pixels-petabytes-and-people-the-five)
 * [Building the Community Catalog Browser: A Visual Field Guide](https://datacommons.substack.com/p/building-the-community-catalog-browser)
-* [Data with a Purpose: Nearly 4000 Datasets and our view from Above](https://datacommons.substack.com/p/data-with-a-purpose-nearly-4000-datasets)
 <!-- END_MARKER -->
 
 #### Open Source Projects 
