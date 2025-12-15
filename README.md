@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🔒 Closed issue [#376](https://github.com/samapriya/awesome-gee-community-datasets/issues/376) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#376](https://github.com/samapriya/awesome-gee-community-datasets/issues/376#issuecomment-3654345541) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 3.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🗣 Commented on [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308#issuecomment-3653110179) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🔒 Closed issue [#30](https://github.com/samapriya/gee_asset_manager_addon/issues/30) in [samapriya/gee_asset_manager_addon](https://github.com/samapriya/gee_asset_manager_addon)
+4.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
