@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/samapriya/geeup/issues/65#issuecomment-3687077274) in [samapriya/geeup](https://github.com/samapriya/geeup)
-2. 🔒 Closed issue [#376](https://github.com/samapriya/awesome-gee-community-datasets/issues/376) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#376](https://github.com/samapriya/awesome-gee-community-datasets/issues/376#issuecomment-3654345541) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5.  Labeled issue [#308](https://github.com/samapriya/awesome-gee-community-datasets/issues/308) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#59](https://github.com/samapriya/geeup/issues/59#issuecomment-3691677849) in [samapriya/geeup](https://github.com/samapriya/geeup)
+2. 🔒 Closed issue [#59](https://github.com/samapriya/geeup/issues/59) in [samapriya/geeup](https://github.com/samapriya/geeup)
+3. 🗣 Commented on [#65](https://github.com/samapriya/geeup/issues/65#issuecomment-3687077274) in [samapriya/geeup](https://github.com/samapriya/geeup)
+4. 🔒 Closed issue [#376](https://github.com/samapriya/awesome-gee-community-datasets/issues/376) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🗣 Commented on [#376](https://github.com/samapriya/awesome-gee-community-datasets/issues/376#issuecomment-3654345541) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
