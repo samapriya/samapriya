@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406](https://github.com/samapriya/awesome-gee-community-datasets/issues/406#issuecomment-3717517113) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. ℹ️ Labeled issue [#403](https://github.com/samapriya/awesome-gee-community-datasets/issues/403) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🚀 Published release [geeup: Simple CLI for Earth Engine Uploads](https://github.com/samapriya/geeup/releases/tag/2.0.0) in [samapriya/geeup](https://github.com/samapriya/geeup)
-4. 🗣 Commented on [#60](https://github.com/samapriya/geeup/issues/60#issuecomment-3694498153) in [samapriya/geeup](https://github.com/samapriya/geeup)
-5. 🔒 Closed issue [#60](https://github.com/samapriya/geeup/issues/60) in [samapriya/geeup](https://github.com/samapriya/geeup)
+1. 🗣 Commented on [#407](https://github.com/samapriya/awesome-gee-community-datasets/issues/407#issuecomment-3803307776) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#406](https://github.com/samapriya/awesome-gee-community-datasets/issues/406#issuecomment-3717517113) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. ℹ️ Labeled issue [#403](https://github.com/samapriya/awesome-gee-community-datasets/issues/403) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🚀 Published release [geeup: Simple CLI for Earth Engine Uploads](https://github.com/samapriya/geeup/releases/tag/2.0.0) in [samapriya/geeup](https://github.com/samapriya/geeup)
+5. 🗣 Commented on [#60](https://github.com/samapriya/geeup/issues/60#issuecomment-3694498153) in [samapriya/geeup](https://github.com/samapriya/geeup)
 <!--END_SECTION:activity-->
 
 </details>
