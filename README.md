@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/samapriya/awesome-gee-community-datasets/issues/307#issuecomment-5200802445) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#307](https://github.com/samapriya/awesome-gee-community-datasets/issues/307) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#434](https://github.com/samapriya/awesome-gee-community-datasets/issues/434#issuecomment-5162400013) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. 🔒 Closed issue [#434](https://github.com/samapriya/awesome-gee-community-datasets/issues/434) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🗣 Commented on [#468](https://github.com/samapriya/awesome-gee-community-datasets/issues/468#issuecomment-5133675927) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/4.0.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#307](https://github.com/samapriya/awesome-gee-community-datasets/issues/307#issuecomment-5200802445) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#307](https://github.com/samapriya/awesome-gee-community-datasets/issues/307) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#434](https://github.com/samapriya/awesome-gee-community-datasets/issues/434#issuecomment-5162400013) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. 🔒 Closed issue [#434](https://github.com/samapriya/awesome-gee-community-datasets/issues/434) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
