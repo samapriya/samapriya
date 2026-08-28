@@ -48,11 +48,11 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#419](https://github.com/samapriya/awesome-gee-community-datasets/issues/419#issuecomment-5370481280) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-2. 🔒 Closed issue [#419](https://github.com/samapriya/awesome-gee-community-datasets/issues/419) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-3. 🗣 Commented on [#472](https://github.com/samapriya/awesome-gee-community-datasets/pull/472#issuecomment-5313036476) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-4. ❌ Closed PR [#472](https://github.com/samapriya/awesome-gee-community-datasets/pull/472) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
-5. 🚀 Published release [Community Catalog](https://github.com/samapriya/awesome-gee-community-datasets/releases/tag/4.0.0) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🔒 Closed issue [#223](https://github.com/samapriya/awesome-gee-community-datasets/issues/223) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+2. 🗣 Commented on [#419](https://github.com/samapriya/awesome-gee-community-datasets/issues/419#issuecomment-5370481280) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+3. 🔒 Closed issue [#419](https://github.com/samapriya/awesome-gee-community-datasets/issues/419) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+4. 🗣 Commented on [#472](https://github.com/samapriya/awesome-gee-community-datasets/pull/472#issuecomment-5313036476) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+5. ❌ Closed PR [#472](https://github.com/samapriya/awesome-gee-community-datasets/pull/472) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 <!--END_SECTION:activity-->
 
 </details>
