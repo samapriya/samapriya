@@ -48,7 +48,7 @@ Research Scientist and Senior Geospatial Engineer at the [**Desert Research Inst
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#477](https://github.com/samapriya/awesome-gee-community-datasets/issues/477) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+1. 🗣 Commented on [#276](https://github.com/samapriya/awesome-gee-community-datasets/issues/276#issuecomment-6670764749) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 2. 🗣 Commented on [#478](https://github.com/samapriya/awesome-gee-community-datasets/issues/478#issuecomment-5763496266) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 3. 🔒 Closed issue [#478](https://github.com/samapriya/awesome-gee-community-datasets/issues/478) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 4. 🗣 Commented on [#475](https://github.com/samapriya/awesome-gee-community-datasets/issues/475#issuecomment-5683032589) in [samapriya/awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
